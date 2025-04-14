@@ -37,8 +37,6 @@ Este aplicativo Android, desenvolvido em **Java**, tem como objetivo calcular o 
 
 Durante o desenvolvimento do projeto, enfrentei alguns desafios relacionados à navegação entre múltiplas **Activities** e à troca de dados entre elas, o que me levou a aprofundar o entendimento de **Intents** e **Bundles**. Também dediquei atenção especial à organização do layout via arquivos XML, separando todos os valores fixos no `appValues.xml` e mantendo uma estrutura limpa e reutilizável.
 
-A personalização das mensagens motivacionais e o uso de imagens específicas para cada categoria de IMC foram pensadas para promover uma experiência positiva ao usuário, independentemente da sua classificação.
-
 ## 📦 Como Executar o App
 
 Você pode utilizar **qualquer uma das opções abaixo** para abrir e testar o projeto:
