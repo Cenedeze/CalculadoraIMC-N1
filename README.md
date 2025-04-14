@@ -44,7 +44,7 @@ Você pode utilizar **qualquer uma das opções abaixo** para abrir e testar o p
 ### ✅ Opção 1: Usando o repositório GitHub
 
 1. Clone este repositório:  
-   `git clone https://github.com/hebertesteves/CalculadoraIMC-N1.git`
+   `git clone https://github.com/Cenedeze/CalculadoraIMC-N1`
 
 2. Abra o projeto no Android Studio;
 
@@ -55,7 +55,7 @@ Você pode utilizar **qualquer uma das opções abaixo** para abrir e testar o p
 ### ✅ Opção 2: Usando o projeto compactado
 
 1. Baixe e extraia o arquivo `.zip` disponível no repositório:  
-   [`250331-ProjetoN1.zip`](https://github.com/hebertesteves/CalculadoraIMC-N1/blob/main/250331-ProjetoN1.zip)
+   [`ProjetoN1.zip`](https://github.com/Cenedeze/CalculadoraIMC-N1/blob/main/CalculadoraIMC/ProjetoN1.zip)
 
 2. Abra a pasta extraída no Android Studio;
 
